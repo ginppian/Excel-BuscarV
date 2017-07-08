@@ -53,11 +53,11 @@ Tomamos otra celda adjunta, y escribimos nuestra función <i>BUSCARV</i> (H3).
 </p>
 
 <p align="justify">
-Como primer parámetro le pasaremos la ubicación de la primera celda donde meteremos X valor (este valor cambiará según el dato que queramos buscar).
+Como primer parámetro le pasaremos la referencia de la primera celda donde meteremos X valor (este valor cambiará según el dato que queramos buscar).
 </p>
 
 <p align="justify">
-Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i>. De <i>IZQUIERDA</i> a <i>DERECHA</i> de </i>ARRIBA</i> <i>ABAJO</i>
+Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i>. De <i>IZQUIERDA</i> a <i>DERECHA</i> de </i>ARRIBA</i> <i>ABAJO</i>.
 </p>
 
 <p align="justify">
