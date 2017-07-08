@@ -53,7 +53,7 @@ Tomamos otra celda adjunta, y escribimos nuestra función <i>BUSCARV</i> (H3).
 </p>
 
 <p align="justify">
-Como primer parámetro le pasaremos la ubicación de la C1 o la primera celda donde meteremos X valor.
+Como primer parámetro le pasaremos la ubicación de la primera celda donde meteremos X valor (este valor cambiará según el dato que queramos buscar).
 </p>
 
 <p align="justify">
