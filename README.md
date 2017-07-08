@@ -6,6 +6,9 @@ Buscar V
 La función <i>BUSCAR V</i> nos permite buscar un <i>valor</i> dentro de una <i>tabla</i> y saber si dicho valor existe o no.
 </p>
 
+<p ALIGN="JUSTIFY">
+De <i>IZQUIERDA</i> a <i>DERECHA</i>
+</p>
 
 
 #### Ejemplos uso:
