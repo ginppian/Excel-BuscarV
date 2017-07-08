@@ -60,6 +60,10 @@ Como primer parámetro le pasaremos la ubicación de la primera celda donde mete
 Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i>. De <i>IZQUIERDA</i> a <i>DERECHA</i> de </i>ARRIBA</i> <i>ABAJO</i>
 </p>
 
+<p align="justify">
+Como último parámetros le pasaremos <i>VERDADERO</i> o <i>FALSO</i> representado como <i>0 o 1</i> .
+</p>
+
 ## Fuente
 
 <p>
