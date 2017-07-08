@@ -7,7 +7,7 @@ Buscar en <i>VERTICAL</i>.
 
 </p>
 <p align="justify">
-La función <i>BUSCARV</i> nos permite buscar un <i>valor</i> dentro de una <i>tabla</i> y saber si dicho valor existe o no. De <i>IZQUIERDA</i> a <i>DERECHA</i>
+La función <i>BUSCARV</i> nos permite buscar un <i>valor</i> dentro de una <i>tabla</i> y saber si dicho valor existe o no. Permite buscar de <i>IZQUIERDA</i> a <i>DERECHA</i>
 </p>
 
 #### Ejemplos uso:
