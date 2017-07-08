@@ -64,6 +64,14 @@ Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR
 Como último parámetros le pasaremos si queremos que coincida <i>EXACTAMENTO</i> (0) ó que coincida <i>APROXIMADAMENTE</i> (1). Estos números representan <i>FALSO</i> o <i> VERDADERO </i> <i>0 o 1</i> . Para nuestro ejemplo queremos que tome el valor <i>más parecido</i> independientemente de (<i>MAYUSCULAS o MINUSCULAS, ESPACIOS, etc.</i>), entonces le dejamos 1.
 </p>
 
+<p align="justify">
+Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i>. De <i>IZQUIERDA</i> a <i>DERECHA</i> de </i>ARRIBA</i> <i>ABAJO</i>.
+</p>
+
+<p align="center">
+	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img4.png" width="1086" height="350">
+</p>
+
 ## Fuente
 
 <p>
