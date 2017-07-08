@@ -46,10 +46,20 @@ Teniendo el <i>IDENTIFICADOR o NÚMERO DE PIEZA</i> 	del producto queremos saber
 
 <p align="justify">
 Tomamos una celda C1 donde escribiremos X <i>IDENTIFICADOR</i> o <i>NÚMERO DE PIEZA</i>.
+</p>
+
+<p align="justify">
 Tomamos otra celda adjunta C2, y escribimos nuestra función <i>BUSCARV</i>.
+</p>
+
+<p align="justify">
 Como primer parámetro le pasaremos la ubicación de la C1 o la primera celda donde meteremos X valor.
+</p>
+
+<p align="justify">
 Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i> de <i>IZQUIERDA</i> a <i>DERECHA</i> </i>ARRIBA</i> <i>ABAJO</i>
 </p>
+
 ## Fuente
 
 <p>
