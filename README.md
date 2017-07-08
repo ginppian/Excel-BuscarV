@@ -45,11 +45,11 @@ Teniendo el <i>IDENTIFICADOR o NÚMERO DE PIEZA</i> 	del producto queremos saber
 </p>
 
 <p align="justify">
-Tomamos una celda C1 donde escribiremos X <i>IDENTIFICADOR</i> o <i>NÚMERO DE PIEZA</i>.
+Tomamos una celda donde escribiremos X <i>IDENTIFICADOR</i> o <i>NÚMERO DE PIEZA</i> (G3).
 </p>
 
 <p align="justify">
-Tomamos otra celda adjunta C2, y escribimos nuestra función <i>BUSCARV</i>.
+Tomamos otra celda adjunta, y escribimos nuestra función <i>BUSCARV</i> (H3).
 </p>
 
 <p align="justify">
