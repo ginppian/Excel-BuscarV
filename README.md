@@ -28,9 +28,14 @@ Por ejemplo, supongamos que eres un profesor con una lista de alumnos elaborada 
 
 ## Desarrollo
 
+Tenemos la siguiente tabla:
+
 <p align="center">
-	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img1.png" width="465" height="324">
+	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img2.png" width="465" height="324">
 </p>
+
+Queremos saber si el producto está en <i>EXISTENCIA</i> y cuál es su <i>PRECIO</i>.
+
 
 ## Fuente
 
