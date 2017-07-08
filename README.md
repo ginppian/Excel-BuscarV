@@ -28,7 +28,7 @@ Por ejemplo, supongamos que eres un profesor con una lista de alumnos elaborada 
 
 ## Desarrollo
 
-<p align="justify">
+<p align="center">
 	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img1.png" width="465" height="324">
 </p>
 
