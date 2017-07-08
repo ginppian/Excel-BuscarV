@@ -6,6 +6,8 @@ Buscar V
 La función <i>BUSCAR V</i> nos permite buscar un <i>valor</i> dentro de una <i>tabla</i> y saber si dicho valor existe o no.
 </p>
 
+
+
 #### Ejemplos uso:
 
 <p align="justify">
@@ -37,7 +39,7 @@ Tenemos la siguiente tabla:
 * Problema:
 
 <p align="justify">
-Queremos saber si el <i>IDENTIFICADOR o NÚMERO DE PIEZA</i> 	del producto y con ese <i>ID</i> saber si está en <i>EXISTENCIA</i> y si es así cuál es su <i>PRECIO</i>.
+Teniendo el <i>IDENTIFICADOR o NÚMERO DE PIEZA</i> 	del producto queremos saber cuál es su precio.
 </p>
 
 
