@@ -41,7 +41,7 @@ Teniendo el <i>IDENTIFICADOR o NÚMERO DE PIEZA</i> 	del producto queremos saber
 </p>
 
 <p align="center">
-	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img3.png" width="1086" height="400">
+	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img3.png" width="1086" height="350">
 </p>
 
 ## Fuente
