@@ -44,6 +44,12 @@ Teniendo el <i>IDENTIFICADOR o NÚMERO DE PIEZA</i> 	del producto queremos saber
 	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img3.png" width="1086" height="350">
 </p>
 
+<p align="justify">
+Tomamos una celda C1 donde escribiremos X <i>IDENTIFICADOR</i>.
+Tomamos otra celda adjunta C2, y escribimos nuestra función <i>BUSCARV</i>.
+Como primer parámetro le pasaremos la ubicación de la C1 o la primera celda donde meteremos X valor.
+Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i> de <i>IZQUIERDA</i> a <i>DERECHA</i> </i>ARRIBA</i> <i>ABAJO</i>
+</p>
 ## Fuente
 
 <p>
