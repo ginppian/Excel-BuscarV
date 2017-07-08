@@ -57,7 +57,7 @@ Como primer parámetro le pasaremos la ubicación de la primera celda donde mete
 </p>
 
 <p align="justify">
-Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i> de <i>IZQUIERDA</i> a <i>DERECHA</i> </i>ARRIBA</i> <i>ABAJO</i>
+Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i>. De <i>IZQUIERDA</i> a <i>DERECHA</i> de </i>ARRIBA</i> <i>ABAJO</i>
 </p>
 
 ## Fuente
