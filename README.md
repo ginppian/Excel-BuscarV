@@ -61,7 +61,7 @@ Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR
 </p>
 
 <p align="justify">
-Como último parámetros le pasaremos si queremos que coincida <i>EXACTAMENTO</i> (0) ó que coincida <i>APROXIMADAMENTE</i> (1). Estos números representan <i>FALSE</i> o <i> VERDADERO </i> <i>0 o 1</i> .
+Como último parámetros le pasaremos si queremos que coincida <i>EXACTAMENTO</i> (0) ó que coincida <i>APROXIMADAMENTE</i> (1). Estos números representan <i>FALSO</i> o <i> VERDADERO </i> <i>0 o 1</i> . Para nuestro ejemplo queremos que tome el valor <i>más parecido</i> independientemente de (<i>MAYUSCULAS o MINUSCULAS, ESPACIOS, etc.</i>), entonces le dejamos 1.
 </p>
 
 ## Fuente
