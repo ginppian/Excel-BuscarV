@@ -20,9 +20,9 @@ Por ejemplo, supongamos que eres un profesor con una lista de alumnos elaborada 
 
 ```
 = BUSCARV(	Valor que desea buscar, 
-					rango en el que quiere buscar el valor, 
-					el número de columna en el rango que contiene el valor devuelto, 
-					Coincidencia exacta o Coincidencia aproximada indicado como 0/FALSO o 1/VERDADERO)
+		rango en el que quiere buscar el valor, 
+		el número de columna en el rango que contiene el valor devuelto, 
+		Coincidencia exacta o Coincidencia aproximada indicado como 0/FALSO o 1/VERDADERO)
 ```
 
 ## Desarrollo
