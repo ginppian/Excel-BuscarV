@@ -16,6 +16,17 @@ Esta función es útil en caso de trabajar en el sector del comercio o las venta
 Por ejemplo, supongamos que eres un profesor con una lista de alumnos elaborada en Excel. Podrías hacer uso de <i>BUSCARV</i> para introducir el nombre de un estudiante y obtener, de manera instantánea, su calificación desde una celda correspondiente.
 </p>
 
+## Estructura
+
+```
+=BUSCARV(Valor que desea buscar, rango en el que quiere buscar el valor, el número de columna en el rango que contiene el valor devuelto, Coincidencia exacta o Coincidencia aproximada indicado como 0/FALSO o 1/VERDADERO)
+```
+
+## Desarrollo
+
+
+
+
 ## Fuente
 
 <p>
