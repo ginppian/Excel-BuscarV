@@ -34,7 +34,9 @@ Tenemos la siguiente tabla:
 	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img2.png" width="465" height="324">
 </p>
 
-Queremos saber si el <i>IDENTIFICADOR o NÚMERO DE PIEZA</i>producto está en <i>EXISTENCIA</i> y cuál es su <i>PRECIO</i>.
+<p align="justify">
+Queremos saber si el <i>IDENTIFICADOR o NÚMERO DE PIEZA</i> 	del producto y con ese <i>ID</i> saber si está en <i>EXISTENCIA</i> y si es así cuál es su <i>PRECIO</i>.
+</p>
 
 
 ## Fuente
