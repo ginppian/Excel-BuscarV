@@ -76,6 +76,16 @@ Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR
 	<img src="https://github.com/ginppian/Excel-BuscarV/blob/master/imgs/img4.png" width="1086" height="350">
 </p>
 
+## Caso especial
+
+<p align="justify">
+Si quisiéramos buscar el <i>IDENTIFICADOR</i> de un producto cambiaríamos el proceso. Debido a que esta función funciona de <i>IZQUIERDA</i> a <i>DERECHA</i> debemos posicionarnos en la columna en la que buscaríamos el elemento y la función recorrerá sus campos para traernos el dato indicado. 
+</p>
+
+<p align="justify">
+Para hacer la permuta de la columna <i>IDENTIFICADORES o NÚMERO DE PIEZA</i> con <i>NOMBRE DE PIEZA</i> mantendremos <i>activa</i> la tecla de <i>MAYUSCULAS</i> (como si fuéramos a escribir con mayusculas) y dejando presionado <i>SHIFT IZQUIERDO</i> movemos el puntero hasta obtener un puntero con 4 flechas en dirección a los 4 puntos cardinales, entonces moves a la derecha y de inmediato se hará la permuta.
+</p>
+
 ## Fuente
 
 <p>
