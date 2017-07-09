@@ -69,7 +69,7 @@ Como último parámetros le pasaremos si queremos que coincida <i>EXACTAMENTO</i
 </p>
 
 <p align="justify">
-Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i>. De <i>IZQUIERDA</i> a <i>DERECHA</i> de </i>ARRIBA</i> <i>ABAJO</i>.
+Como segundo parámetro le pasaremos un <i>RANGO</i> de donde queremos <i>BUSCAR</i>. De <i>IZQUIERDA</i> a <i>DERECHA</i> de </i>ARRIBA</i> <i>ABAJO</i>. O podemos hacer la combinación de teclas: <i>SHIFT IZQUIERDO + CTRL + SPACE</i>.
 </p>
 
 <p align="center">
